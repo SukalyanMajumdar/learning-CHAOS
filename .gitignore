@@ -1,3 +1,20 @@
-.venv
-hello_world.py
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Environment secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Testing and cache
+.pytest_cache/
+
+# Temp Files
 file1.py
+hello_world.py
