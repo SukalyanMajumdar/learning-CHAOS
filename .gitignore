@@ -14,7 +14,3 @@ __pycache__/
 
 # Testing and cache
 .pytest_cache/
-
-# Temp Files
-file1.py
-hello_world.py
